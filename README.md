@@ -2,7 +2,7 @@
 Overview
 The Submarines Game is an advanced implementation of the classic battleship game in Java. It challenges players against an AI opponent, incorporating strategic gameplay and dynamic mechanics. The project emphasizes professional-grade programming practices, efficient algorithms, and clear modularity for maintainability and scalability.
 
-Features
+## **Features**
 Dynamic Gameplay:
 Submarine placement with rotation angles and custom lengths.
 Real-time board updates for both players and AI.
@@ -15,8 +15,9 @@ Victory Conditions:
 Automated checks for sunken submarines and game-end scenarios.
 Scalable Design:
 Modular methods enable easy feature extension and debugging.
-Methods and Programming Features
-Core Methods
+
+## **Methods and Programming Features**
+## **Core Methods**
 LevelChoosing:
 Ensures valid difficulty selection with error handling.
 printTable:
